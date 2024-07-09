@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/tictactoe.git
+    git clone https://github.com/kanak27/Connect3.git
     ```
 
 2. **Open the project in Android Studio:**
